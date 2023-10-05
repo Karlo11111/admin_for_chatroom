@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769316921755",
+    "project_id": "fir-login-practice-57811",
+    "storage_bucket": "fir-login-practice-57811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769316921755:android:537476f72d1cc74d88813e",
+        "android_client_info": {
+          "package_name": "com.example.admin_for_chatroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL88HX_iGo2DIuT6TNrtE6SojV66wSH_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769316921755:android:1127449eddad886d88813e",
+        "android_client_info": {
+          "package_name": "com.example.loginp_page_hand_made"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL88HX_iGo2DIuT6TNrtE6SojV66wSH_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
